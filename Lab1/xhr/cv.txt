@@ -1,0 +1,6 @@
+my name is gehad, I am a trainee in ITI
+My skills are
+html
+css
+js
+bootstrap
